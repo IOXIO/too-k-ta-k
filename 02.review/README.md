@@ -8,19 +8,19 @@
 
 #### #. 새 글 작성
 
-![New Story](/Users/cro/dev/ioxio/too-k-ta-k/02.review/assets/new-story.png)
+![New Story](./assets/new-story.png)
 
 #### #. 작성 글 Publication 추가
 
-![Add Publication](/Users/cro/dev/ioxio/too-k-ta-k/02.review/assets/add-publication.png)
+![Add Publication](./assets/add-publication.png)
 
 ### #. 대상 Publication 선택
 
-![Select Publications](/Users/cro/dev/ioxio/too-k-ta-k/02.review/assets/selection-publication.png)
+![Select Publications](./assets/selection-publication.png)
 
 #### #. 작성 글 Publish
 
-![Publish Story](/Users/cro/dev/ioxio/too-k-ta-k/02.review/assets/publish-now.png)
+![Publish Story](./assets/publish-now.png)
 
 ---
 
@@ -28,12 +28,13 @@
 
 #### #. 새 글 작성
 
-<img src="/Users/cro/dev/ioxio/too-k-ta-k/02.review/assets/mobile-app.jpeg" alt="New Story" style="zoom:50%;" /><img src="/Users/cro/dev/ioxio/too-k-ta-k/02.review/assets/mobile-new-story.jpeg" alt="New Story" style="zoom:50%;" /><img src="/Users/cro/dev/ioxio/too-k-ta-k/02.review/assets/mobile-complete-story.jpeg" alt="Completed Story" style="zoom:50%;" />
+<img src="./assets/mobile-app.jpeg" alt="New Story" style="zoom:50%;" /><img src="./assets/mobile-new-story.jpeg" alt="New Story" style="zoom:50%;" /><img src="./assets/mobile-complete-story.jpeg" alt="Completed Story" style="zoom:50%;" />
 
 #### #. 작성 글 Publication 추가
 
-<img src="/Users/cro/dev/ioxio/too-k-ta-k/02.review/assets/mobile-add-publication.jpeg" alt="Add Publication" style="zoom:50%;" /><img src="/Users/cro/dev/ioxio/too-k-ta-k/02.review/assets/mobile-selection-publication.jpeg" alt="Select Publication" style="zoom:50%;" />
+<img src="./assets/mobile-add-publication.jpeg" alt="Add Publication" style="zoom:50%;" /><img src="./assets/mobile-selection-publication.jpeg" alt="Select Publication" style="zoom:50%;" />
 
 #### #. 작성 글 Publish
 
-<img src="/Users/cro/dev/ioxio/too-k-ta-k/02.review/assets/mobile-publish-now.jpeg" alt="Publish Story" style="zoom:50%;" align="left" />
+<img src="./assets/mobile-publish-now.jpeg" alt="Publish Story" style="zoom:50%;" align="left" />
+
