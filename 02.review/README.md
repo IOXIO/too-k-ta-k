@@ -28,13 +28,12 @@
 
 #### #. 새 글 작성
 
-<img src="./assets/mobile-app.jpeg" alt="New Story" style="zoom:50%;" /><img src="./assets/mobile-new-story.jpeg" alt="New Story" style="zoom:50%;" /><img src="./assets/mobile-complete-story.jpeg" alt="Completed Story" style="zoom:50%;" />
+<img src="./assets/mobile-app.jpeg" alt="New Story" style="zoom:33%;" /><img src="./assets/mobile-new-story.jpeg" alt="New Story" style="zoom:33%;" /><img src="./assets/mobile-complete-story.jpeg" alt="Completed Story" style="zoom:33%;" />
 
 #### #. 작성 글 Publication 추가
 
-<img src="./assets/mobile-add-publication.jpeg" alt="Add Publication" style="zoom:50%;" /><img src="./assets/mobile-selection-publication.jpeg" alt="Select Publication" style="zoom:50%;" />
+<img src="./assets/mobile-add-publication.jpeg" alt="Add Publication" style="zoom:33%;" /><img src="./assets/mobile-selection-publication.jpeg" alt="Select Publication" style="zoom:33%;" />
 
 #### #. 작성 글 Publish
 
-<img src="./assets/mobile-publish-now.jpeg" alt="Publish Story" style="zoom:50%;" align="left" />
-
+<img src="./assets/mobile-publish-now.jpeg" alt="Publish Story" style="zoom:33%;" align="left" />
